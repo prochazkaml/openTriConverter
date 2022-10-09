@@ -1,10 +1,7 @@
 # requires pillow
 
-import PIL.Image as pil
 import sys
-import math
 import struct
-import numpy
 import zlib
 from tritexgen import *
 
