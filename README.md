@@ -1,3 +1,7 @@
+# Moved over to [Codeberg](https://codeberg.org/prochazkaml/openTriConverter).
+
+---
+
 # openTriConverter
 A texture & 3D model converter for the openTri PSP 3D game engine.
 
